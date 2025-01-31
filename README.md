@@ -1,7 +1,22 @@
-Olá, Eu sou a Karla Cardoso!
-Eu sou web designer, desde 2018 sou freelancer, eu faço sites com cms wordpress e mais plugin elementor.
-Então, por isso decidir aprofundar meus conhecimento, e em breve serei frontend.
-Atualmente estou fazendo o curso Formação Front end, udemy, com o professor Matheus Bastti.
-Aqui vou compartilhar meu projetos, desde do mais básico, em breve os avançados.
-Meu site é karlacardoso.com.br, fiz no wordpress, espero um dia fazer sites assim, mas codando.
-Valeu! 
+# Sobre Mim 👩‍💻
+
+Olá! Meu nome é Karla Cardoso, e estou em uma jornada emocionante para me tornar uma **desenvolvedora frontend**. Atualmente, estou focada em aprender e aprimorar minhas habilidades em tecnologias como **HTML**, **CSS**, **JavaScript** e frameworks modernos como **React**. 
+
+Sou apaixonada por criar interfaces bonitas, responsivas e intuitivas que proporcionam uma ótima experiência ao usuário. Acredito que o frontend é a ponte entre a tecnologia e as pessoas, e é por isso que me dedico a construir soluções que sejam não apenas funcionais, mas também visualmente atraentes.
+
+## O que estou estudando e praticando:
+- **HTML5 e CSS3:** Criando estruturas semânticas e estilizando com flexbox, grid e animações.
+- **JavaScript:** Desenvolvendo interatividade e lógica para aplicações web.
+- **React:** Construindo interfaces dinâmicas e reutilizáveis com componentes.
+- **Ferramentas de Desenvolvimento:** Git, VS Code, e ferramentas de debugging.
+- **Design Responsivo:** Garantindo que minhas aplicações funcionem bem em qualquer dispositivo.
+
+## Meus Objetivos:
+- **Aprender continuamente:** Estou sempre buscando novos conhecimentos e tendências no mundo do desenvolvimento frontend.
+- **Colaborar em projetos:** Quero contribuir para projetos open source e trabalhar em equipe para criar soluções incríveis.
+- **Construir um portfólio sólido:** Desenvolver projetos pessoais e práticos para demonstrar minhas habilidades e criatividade.
+
+## Por que escolhi o frontend?
+Adoro a combinação de criatividade e lógica que o desenvolvimento frontend oferece. Poder transformar designs em código funcional e ver o resultado final em tempo real é incrivelmente gratificante. Além disso, estou sempre animada para aprender novas bibliotecas, frameworks e ferramentas que possam melhorar minhas habilidades e me tornar uma profissional mais completa.
+
+Se você quiser saber mais sobre mim ou colaborar em algum projeto, sinta-se à vontade para entrar em contato! 😊
