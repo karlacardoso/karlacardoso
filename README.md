@@ -1,4 +1,5 @@
 # Sobre Mim 👩‍💻
+Atualmente, estou cursando Análise e Desenvolvimento de Sistema na Unicesumar!
 
 Olá! Meu nome é Karla Cardoso, e estou em uma jornada emocionante para me tornar uma **desenvolvedora frontend**. Atualmente, estou focada em aprender e aprimorar minhas habilidades em tecnologias como **HTML**, **CSS**, **JavaScript** e frameworks modernos como **React**. 
 
