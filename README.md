@@ -17,7 +17,5 @@ Sou apaixonada por criar interfaces bonitas, responsivas e intuitivas que propor
 - **Colaborar em projetos:** Quero contribuir para projetos open source e trabalhar em equipe para criar soluções incríveis.
 - **Construir um portfólio sólido:** Desenvolver projetos pessoais e práticos para demonstrar minhas habilidades e criatividade.
 
-## Por que escolhi o frontend?
-Adoro a combinação de criatividade e lógica que o desenvolvimento frontend oferece. Poder transformar designs em código funcional e ver o resultado final em tempo real é incrivelmente gratificante. Além disso, estou sempre animada para aprender novas bibliotecas, frameworks e ferramentas que possam melhorar minhas habilidades e me tornar uma profissional mais completa.
 
 Se você quiser saber mais sobre mim ou colaborar em algum projeto, sinta-se à vontade para entrar em contato! 😊
