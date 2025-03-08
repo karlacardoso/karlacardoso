@@ -1,21 +1,24 @@
-# Sobre Mim 👩‍💻
-Atualmente, estou cursando Análise e Desenvolvimento de Sistema na Unicesumar!
+Aqui está um "Sobre Mim" adaptado para sua jornada como Full Stack Developer com Java no backend e Angular no frontend:  
 
-Olá! Meu nome é Karla Cardoso, e estou em uma jornada emocionante para me tornar uma **desenvolvedora frontend**. Atualmente, estou focada em aprender e aprimorar minhas habilidades em tecnologias como **HTML**, **CSS**, **JavaScript** e frameworks modernos como **React**. 
+---
 
-Sou apaixonada por criar interfaces bonitas, responsivas e intuitivas que proporcionam uma ótima experiência ao usuário. Acredito que o frontend é a ponte entre a tecnologia e as pessoas, e é por isso que me dedico a construir soluções que sejam não apenas funcionais, mas também visualmente atraentes.
+### Sobre Mim 👩‍💻  
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar!  
 
-## O que estou estudando e praticando:
-- **HTML5 e CSS3:** Criando estruturas semânticas e estilizando com flexbox, grid e animações.
-- **JavaScript:** Desenvolvendo interatividade e lógica para aplicações web.
-- **React:** Construindo interfaces dinâmicas e reutilizáveis com componentes.
-- **Ferramentas de Desenvolvimento:** Git, VS Code, e ferramentas de debugging.
-- **Design Responsivo:** Garantindo que minhas aplicações funcionem bem em qualquer dispositivo.
+Olá! Meu nome é Karla Cardoso, e estou em uma jornada empolgante para me tornar uma desenvolvedora Full Stack. Atualmente, estou focada em aprender e aprimorar minhas habilidades no desenvolvimento backend com **Java** e no frontend utilizando **Angular**.  
 
-## Meus Objetivos:
-- **Aprender continuamente:** Estou sempre buscando novos conhecimentos e tendências no mundo do desenvolvimento frontend.
-- **Colaborar em projetos:** Quero contribuir para projetos open source e trabalhar em equipe para criar soluções incríveis.
-- **Construir um portfólio sólido:** Desenvolver projetos pessoais e práticos para demonstrar minhas habilidades e criatividade.
+Sou apaixonada por criar aplicações completas, combinando um backend robusto com um frontend dinâmico e responsivo. Acredito que a tecnologia tem o poder de transformar ideias em soluções inovadoras, e é isso que me motiva a evoluir constantemente.  
 
+### O que estou estudando e praticando:  
+- **Backend com Java:** Desenvolvimento de APIs REST, Spring Boot, banco de dados SQL e boas práticas de arquitetura.  
+- **Frontend com Angular:** Construção de interfaces dinâmicas, componentização, consumo de APIs e estilização com CSS e TypeScript.  
+- **Banco de Dados:** Modelagem, consultas SQL e integração com aplicações.  
+- **Controle de Versão:** Uso do Git e GitHub para versionamento e colaboração em projetos.  
+- **Desenvolvimento Full Stack:** Criando aplicações completas que conectam frontend e backend de forma eficiente.  
 
-Se você quiser saber mais sobre mim ou colaborar em algum projeto, sinta-se à vontade para entrar em contato! 😊
+### Meus Objetivos:  
+✅ **Aprender continuamente:** Estou sempre buscando novas tecnologias e melhores práticas no desenvolvimento Full Stack.  
+✅ **Criar projetos práticos:** Desenvolver aplicações que demonstrem minhas habilidades e tragam soluções úteis.  
+✅ **Colaborar com a comunidade:** Contribuir para projetos open source e trocar conhecimento com outros desenvolvedores.  
+
+Se quiser trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato! 😊
