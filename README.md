@@ -1,6 +1,5 @@
-Aqui está um "Sobre Mim" adaptado para sua jornada como Full Stack Developer com Java no backend e Angular no frontend:  
+ 
 
----
 
 ### Sobre Mim 👩‍💻  
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar!  
