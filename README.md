@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedora Backend | Java • Spring Boot • APIs REST</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/akarlacardoso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seuemail@exemplo.com">
@@ -57,16 +57,7 @@ Sempre com foco em **qualidade**, **boas práticas** e **inovação**.
 - 🇺🇸 Inglês — Intermediário
 - 🇪🇸 Espanhol — Básico
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=default" width="48%" />
-</p>
-
----
 
 ### 🚀 Aberta a oportunidades
 
@@ -74,7 +65,7 @@ Estou aberta a novas oportunidades para contribuir com soluções inovadoras e d
 **Vamos conversar?** 💬
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/akarlacardoso/" target="_blank">
     <img src="https://img.shields.io/badge/Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
