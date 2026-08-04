@@ -1,19 +1,80 @@
-Sobre Mim 👩‍💻
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar!
+<h1 align="center">Olá, tudo bem? 👋</h1>
 
-Olá! Meu nome é **Karla Cardoso**, e estou em uma jornada empolgante para me tornar uma desenvolvedora backend com foco em Java. Atualmente, estou aprimorando minhas habilidades na construção de aplicações robustas, escaláveis e eficientes para resolver problemas do mundo real.
+<h3 align="center">Desenvolvedora Backend | Java • Spring Boot • APIs REST</h3>
 
-Sou apaixonada por criar sistemas bem estruturados, garantindo performance, segurança e boa arquitetura. Acredito que um backend bem desenvolvido é a base para qualquer aplicação de sucesso, e é isso que me motiva a evoluir constantemente.
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-O que estou estudando e praticando:
-Java e Spring Boot: Desenvolvimento de APIs REST, injeção de dependências, segurança e boas práticas.
-Banco de Dados: Modelagem, consultas SQL, PostgreSQL e integração com aplicações backend.
-Arquitetura de Software: Padrões como MVC, Clean Architecture e SOLID.
-Testes Automatizados: JUnit e Mockito para garantir qualidade no código.
-Controle de Versão: Uso do Git e GitHub para versionamento e colaboração em projetos.
-Meus Objetivos:
-✅ Aprimorar minhas habilidades em backend: Criar aplicações escaláveis e bem estruturadas.
-✅ Construir projetos práticos: Aplicar meus conhecimentos desenvolvendo soluções úteis.
-✅ Evoluir profissionalmente: Buscar oportunidades para crescer e contribuir para grandes projetos.
+---
 
-Se quiser trocar ideias, colaborar em projetos ou apenas conversar sobre tecnologia, estou à disposição! 😊
+### 💼 Sobre mim
+
+Sou uma profissional dedicada ao desenvolvimento backend, com experiência prática em **Java**, **Spring Boot** e **APIs REST**, adquirida em projetos de grande escala na **Dataprev**. Minha atuação inclui criação de soluções robustas, integração entre sistemas e implementação de testes que elevam a confiabilidade das aplicações.
+
+Durante minha trajetória, destaquei-me pela capacidade de otimizar processos e melhorar a usabilidade, alcançando:
+
+- 📉 **Redução de 10%** nos defeitos identificados em produção
+- 🧪 **Aumento de 80%** na cobertura de testes automatizados
+- 🗂️ **Melhoria de 30%** na organização e integridade do código com Git/GitLab e metodologias ágeis
+
+Sempre com foco em **qualidade**, **boas práticas** e **inovação**.
+
+---
+
+### 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** — UNICESUMAR *(em andamento)*
+- **Bootcamp Santander Back-end** — aprofundando conhecimentos técnicos e colaboração em projetos globais
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 🌎 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário
+- 🇪🇸 Espanhol — Básico
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=default" width="48%" />
+</p>
+
+---
+
+### 🚀 Aberta a oportunidades
+
+Estou aberta a novas oportunidades para contribuir com soluções inovadoras e de impacto.
+**Vamos conversar?** 💬
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
